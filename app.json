@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TestRedux",
+    "slug": "TestRedux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "TestRedux"
+}
